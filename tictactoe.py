@@ -49,7 +49,7 @@ def novo_jogo():
 				print('POSIÇÃO INVALIDA!. Digite uma posição entre 1 e 9')
 
 		players.reverse()
-		if vez == :
+		if vez == 1:
 			posicoes[jogada-1] = 'X'
 			vez = 2
 		else:
